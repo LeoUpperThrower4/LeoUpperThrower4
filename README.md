@@ -47,17 +47,17 @@ const Leo = {
 #### Rede Sociais!
 
 <p align="left">
-  <a href="https://leosilva.me" alt="Website pessoal">
+  <a href="http://leosilva.me" alt="Website pessoal">
   <img src="https://img.shields.io/badge/Website-leosilva.me-%20" /></a>
 
   
-  <a href="#" alt="Gmail">
+  <a href="mailto:ldsds94@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:ldsds94@gmail.com" /></a>
 
-  <a href="#" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/leonardo-dos-santos-duarte-silva-0708b4182/" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leonardo-dos-santos-duarte-silva-0708b4182/" /></a>
   
-  <a href="#" alt="Instagram">
+  <a href="https://www.instagram.com/leo_silva0401/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/leo_silva0401/"/></a>
 </p>  
 
