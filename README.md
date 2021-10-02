@@ -50,7 +50,7 @@ const Leo = {
 
 <p align="left">
   <a href="http://leosilva.me" alt="Website pessoal">
-  <img src="https://img.shields.io/badge/meu%20site-leosilva.me-blue" /></a>
+  <img src="https://img.shields.io/badge/leosilva.me-blue" /></a>
 
   
   <a href="mailto:ldsds94@gmail.com" alt="Gmail">
