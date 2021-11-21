@@ -9,7 +9,9 @@ Seja bem vindo(a) ao meu portfólio!
 ``` javascript
 const Leo = {
  name: "Leonardo Silva",
+ 
  professionalHistory: ["Intern Software Developer - Nelogica"],
+ 
  education: ["Sistemas de Informação - FURG", 
             "Automação Industrial - IFRS - Campus Rio Grande"],
  
