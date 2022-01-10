@@ -15,8 +15,8 @@ const Leo = {
  education: ["Sistemas de Informação - FURG", 
             "Automação Industrial - IFRS - Campus Rio Grande"],
  
- mainSkill: "Web Development W/ React",
- ❤️languages = ["JavaScript", "C#", "Python"]
+ mainSkill: "Delphi",
+ ❤️languages = ["Delphi", "C#", "Python", "JavaScript"]
 
 }
 ```
@@ -24,6 +24,7 @@ const Leo = {
 ## **Linguagens e Ferramentas:**  
 
 
+<code><img height="30" src="https://th.bing.com/th/id/R.6ca6c7e303e93df19ba57ae23347f8b6?rik=noFGQixacEhM7A&pid=ImgRaw&r=0&sres=1&sresct=1"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
