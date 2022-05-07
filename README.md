@@ -16,7 +16,7 @@ const Leo = {
             "Automação Industrial - IFRS - Campus Rio Grande"],
  
  mainSkill: "Delphi",
- ❤️languages = ["Delphi", "C#", "Python", "JavaScript"]
+ ❤️languages = ["Python", "JavaScript", "Delphi", "C#"]
 
 }
 ```
