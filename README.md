@@ -15,8 +15,11 @@ const Leo = {
  education: ["Sistemas de Informação - FURG", 
             "Automação Industrial - IFRS - Campus Rio Grande"],
  
- mainSkill: "Delphi",
- ❤️languages = ["Python", "JavaScript", "Delphi", "C#"]
+ currentMainSkill: "Delphi",
+ 
+ loveLanguages = ["Python", "JavaScript", "Delphi", "C#"],
+ 
+ loveTopics = ["Programming", "Entrepreneurship", "Mind", "Management"]
 
 }
 ```
@@ -24,7 +27,7 @@ const Leo = {
 ## **Linguagens e Ferramentas:**  
 
 
-<code><img height="30" src="https://th.bing.com/th/id/R.6ca6c7e303e93df19ba57ae23347f8b6?rik=noFGQixacEhM7A&pid=ImgRaw&r=0&sres=1&sresct=1"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/29781030/187795709-a3581607-d2bf-4e50-ad18-190e4a50468a.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
@@ -33,7 +36,7 @@ const Leo = {
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></code>
+<code><img height="30" src="https://user-images.githubusercontent.com/29781030/187795562-3182cf45-9e9e-44c4-acc9-fe570edc881d.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
@@ -53,10 +56,7 @@ const Leo = {
 ## Para me encontrar!
 
 <p align="left">
-  <a href="http://leosilva.me" alt="Website pessoal">
-  <img src="https://img.shields.io/badge/leosilva.me-blue" /></a>
 
-  
   <a href="mailto:ldsds94@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:ldsds94@gmail.com" /></a>
 
