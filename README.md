@@ -19,7 +19,7 @@ const Leo = {
  
  loveLanguages = ["Python", "JavaScript", "Delphi", "C#"],
  
- loveTopics = ["Programming", "Entrepreneurship", "Mind", "Management"]
+ loveTopics = ["Programming", "Entrepreneurship", "Management"]
 
 }
 ```
